@@ -1,1 +1,32 @@
 /*  your css code here. If applicable */
+#coin>h1{
+	color: #2a7ae2;
+	font-size:75px;
+}
+#coin>h2{
+	color: #f44336;
+	font-size:50px;
+}
+
+#coin>h3{
+	color:  #4caf50;
+	font-size:45px;
+}
+#coin>h4{
+	color:#ff9800;
+	font-size:40px;
+}
+#coin>h5{
+	color: #607d8b;
+	font-size:35px;
+}
+#coin>h6{
+	color:#ffeb3b;
+	font-size:30px;
+}
+
+
+
+
+
+
